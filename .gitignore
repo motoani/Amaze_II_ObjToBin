@@ -1,0 +1,8 @@
+# Blender export files
+*.obj
+*.mtl
+
+# Processed files
+*.bon
+*.bin
+*.hed

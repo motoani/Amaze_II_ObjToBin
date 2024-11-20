@@ -30,3 +30,5 @@ In app.js there is a const array for input files and a const for the output. Not
 Run app.js in whatever system you have for node.js. I use the native support in VS Code. A world with many thousands of triangles across hundreds of chunks will take a few minutes to build. Text output will appear in the monitor to indicate action until FINISHED is displayed.
 
 Some residual .bon and .hed files should be deleted, I've been reluctant to include unlink() in my script to avoid loss of desired files!
+
+There is a demonstration of the script's use on [YouTube](https://youtu.be/cqhp0LJD6R0).

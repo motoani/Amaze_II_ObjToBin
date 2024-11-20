@@ -35,10 +35,10 @@
 
 // User should alter the rows here for their own purposes
 // Source file names as an array which will be built into one big binary
-const sources = ["DiscWorld11base", "DiscWorld11rest", "DiscWorld11Ani"]; // an extension of .obj is presumed
+const sources = ["beachbase", "beachrest", "beachball"]; // an extension of .obj is presumed
 
 // Destination file name
-const dest_filename = "DiscWorld11"; // an extension of .bin is presumed and added
+const dest_filename = "beach_out"; // an extension of .bin is presumed and added
 // Start point (eye) and view (direction) are put in the world binary - Don't start at 0.0f values as it might miss the base
 const Eye = [1.0, 1.7, 63.0];
 const Direction = [-0.3939, 0, -0.9191]; // Normalisation is done at points but vector should have a length of 1

@@ -1,4 +1,4 @@
-// The textures that we use currently as they appear in the fort_texture.bin file
+// The textures that we use currently in the example
 // Note 128 x 128 is 64k, 128 width is probably ideal and efficient but not compulsory
 // as dimensions are embedded in dib header and used in renderer
 // Make or import a texture and adjust the bitmap size as required, widith really should be a power of two

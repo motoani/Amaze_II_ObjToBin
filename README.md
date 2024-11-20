@@ -10,7 +10,7 @@ The script is fairly well commented but it accumulated haphazardly so I am aware
 
 ### Blender export
 
-I have built worlds in Blender and then exported them to wavefront format files .obj and .mtl. It is ESSENTIAL that the export flags to
+I have built worlds in Blender and then exported them to Wavefront format files .obj and .mtl. It is ESSENTIAL that the export flags to
 - Triangulate Mesh is set
 - Normals is not set
 - UV Coordinates is set if textures are present in the materials
